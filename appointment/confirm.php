@@ -17,7 +17,7 @@ include('include/scripts.php');
         <link rel="stylesheet" type="text/css" href="cssdis/main.css">
 
 
-<script src="https://kit.fontawesome.com/bb3fe22788.js" crossorigin="anonymous"></script>
+<script src="https://github.com/Messi0914/Hospital-Management.git" crossorigin="anonymous"></script>
 
 
 	<title></title>

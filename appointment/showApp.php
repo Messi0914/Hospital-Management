@@ -19,7 +19,7 @@ include 'include/header.php';
     <title></title>
   </head>
 
-  <body style="background: #red;">
+  <body style="background: #CCCCCC;">
    <div class="row">
 <div class="col">
   <div class="container">

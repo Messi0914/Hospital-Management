@@ -15,7 +15,7 @@
 
   }else {
 
-    echo("Connected Sucuessfully");
+    echo("");
   }
 
 

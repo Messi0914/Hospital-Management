@@ -1,0 +1,170 @@
+table {
+
+  position: absolute;
+  z-index: 2;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  width: 60%;
+border-collapse: collapse;
+border-spacing: 0;
+border-radius: 12px 12px 0 0;
+box-shadow: none;
+overflow: hidden;
+  background: #fafafa;
+  text-align: center;
+
+}
+
+th,td{
+
+ font-family: sans-serif;
+  padding: 12px 15px;
+
+}
+
+th{
+
+
+  
+  font-family:  sans-serif;
+  text-transform: uppercase;
+
+}
+
+tr:nth-child(odd){
+
+  background-color: #eeeeee;
+}
+
+td{
+
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.search-box{
+
+	position: absolute;
+  top: 20%;
+  left: 35%;
+  transform: translate(-50%,*50%);
+  background: background: rgb(224,236,224);
+background: linear-gradient(90deg, rgba(224,236,224,0.9990371148459384) 0%, rgba(212,224,227,1) 75%);;
+  height: 40px;
+  border-radius: 40px;
+  padding: 10px;
+
+}
+
+
+
+
+.search2{
+
+  border: none;
+  background: none;
+  outline: none;
+  float: left;
+  padding: 0;
+  color: white;
+  font-size: 16px;
+  transition: 0.4s;
+  line-height: 40px;
+  width: 240px;
+
+}
+
+
+
+table {
+
+  position: absolute;
+  z-index: 2;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  width: 60%;
+border-collapse: collapse;
+border-spacing: 0;
+border-radius: 12px 12px 0 0;
+box-shadow: none;
+overflow: hidden;
+  background: #fafafa;
+  text-align: center;
+
+}
+
+th,td{
+
+ font-family: sans-serif;
+  padding: 12px 15px;
+
+}
+
+th{
+
+
+  
+  font-family:  sans-serif;
+  text-transform: uppercase;
+
+}
+
+tr:nth-child(odd){
+
+  background-color: #eeeeee;
+}
+
+td{
+
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.search-box{
+
+  position: absolute;
+  top: 20%;
+  left: 35%;
+  transform: translate(-50%,*50%);
+  background: background: rgb(224,236,224);
+background: linear-gradient(90deg, rgba(224,236,224,0.9990371148459384) 0%, rgba(212,224,227,1) 75%);;
+  height: 50px;
+  border-radius: 40px;
+  padding: 40px;
+  text-align: center;
+
+}
+
+
+
+
+.search2{
+
+  border: none;
+  background: none;
+  outline: none;
+  float: left;
+  padding: 0;
+  color: black;
+  font-size: 16px;
+  font-weight: bold;
+  transition: 0.4s;
+  line-height: 40px;
+  width: 290px;
+
+}
+
+.btn5{
+
+  padding: 6px;
+  margin: -15px;
+  color: white;
+
+  
+}
+
+.btn btn-success {
+
+}

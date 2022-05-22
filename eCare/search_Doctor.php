@@ -45,54 +45,14 @@
 
 </head>
 <body>
+    <?php 
+
+        include 'header.php';
+
+     ?>
 
 
-            <nav class="navbar navbar-expand-lg bg-light fixed-top shadow-lg">
-                <div class="container">
-                    <a class="navbar-brand mx-auto d-lg-none" href="index.html">
-                        eCare
-                        <strong class="d-block">Health Specialist</strong>
-                    </a>
-
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-
-                    <div class="collapse navbar-collapse" id="navbarNav">
-                        <ul class="navbar-nav mx-auto">
-                            <li class="nav-item active">
-                                <a class="nav-link" href="index.php">Home</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a class="nav-link" href="#about">About</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a class="nav-link" href="search_Doctor.php">To Know</a>
-                            </li>
-
-                            <a class="navbar-brand d-none d-lg-block" href="index.php">
-                                eCare
-                                <strong class="d-block">Health Specialist</strong>
-                            </a>
-
-                            <li class="nav-item">
-                                <a class="nav-link" href="register.php">Registration</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a class="nav-link" href="#booking">Make an Appointment</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a class="nav-link" href="login.php">User Profile</a>
-                            </li>
-                        </ul>
-                    </div>
-
-                </div>
-            </nav>    
+           
 <br><br><br><br>
  <div class="search__container">
                     <p class="search__title">

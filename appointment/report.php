@@ -1,5 +1,5 @@
 <?php
-include('include/connection.php')
+include('include/report.php')
 ?>
 
 <!DOCTYPE html>

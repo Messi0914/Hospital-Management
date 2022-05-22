@@ -27,7 +27,7 @@ include 'include/header.php';
 
       <div class="card-header">
 <form action="searchApp.php" method="post">
-          <button type="submit" class="btn btn-success mb-5">Check Your Apppointment . <i class="fa-solid fa-magnifying-glass"></i></button>
+          <button type="submit" class="btn btn-success mb-5">Search Your Apppointment . <i class="fa-solid fa-magnifying-glass"></i></button>
 
    <form action="pdf2.php" method="post">
           <button style=" padding: 10px 10px; float:right; margin-right:100px;" type="submit" class="btn btn-danger

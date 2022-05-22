@@ -1,5 +1,10 @@
 <?php
-include 'connect.php';
+$con=new mysqli('localhost','root','','paymentdetails');
+
+if(!$con){
+  die(mysqli_error($con));
+}
+
 $id=$_GET['updateid'];
 $sql="Select * from `payment` where id=$id";
 $result=mysqli_query($con,$sql);

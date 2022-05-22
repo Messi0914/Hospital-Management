@@ -49,31 +49,6 @@ include('include/scripts.php');
 <script src="https://kit.fontawesome.com/bb3fe22788.js" crossorigin="anonymous"></script>
 
 
-	<script type="text/javascript">
-  
-function clickMe(){
-
-
-swal({
-  title: "Are you sure?",
-  text: "Once you Confirm your Appointment, you will not be able to change that Appointment for 36 hours!",
-  icon: "warning",
-  buttons: true,
-  dangerMode: true,
-})
-.then((willDelete) => {
-  if (willDelete) {
-    swal("Successfully created your Appointment!", {
-      icon: "success",
-    });
-  } else {
-    swal("cancel!");
-  }
-});
-
-}
-
-
-</script>
+	
 </body>
 </html>
